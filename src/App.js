@@ -9,7 +9,7 @@ import MyButton from "./components/MyButton/MyButton";
 function App() {
   return (
     <>
-
+<h1>Dynamic buttons</h1>
 
   <Container>
     <Row className="justify-content-center">
